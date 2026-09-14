@@ -18,3 +18,4 @@ Practical 1 for ECE444
 # Activity 4
 
 ![Screenshot](Screenshot%202026-09-15%20021710.png)
+![Screenshot](Screenshot%202026-09-15%20022144.png)
