@@ -10,3 +10,7 @@ Practical 1 for ECE444
 # Activity 2
 
 ![Screenshot](Screenshot%202026-09-15%20013629.png)
+
+# Activity 3
+
+![Screenshot](Screenshot%202026-09-15%20020745.png)
